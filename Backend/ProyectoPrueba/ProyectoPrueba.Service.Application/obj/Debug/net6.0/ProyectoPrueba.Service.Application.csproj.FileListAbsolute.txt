@@ -1,0 +1,15 @@
+D:\Alex\CURSOS 2022\VStudio\Practica1\Practica\Practica\Backend\ProyectoPrueba\ProyectoPrueba.Service.Application\bin\Debug\net6.0\ProyectoPrueba.Service.Application.deps.json
+D:\Alex\CURSOS 2022\VStudio\Practica1\Practica\Practica\Backend\ProyectoPrueba\ProyectoPrueba.Service.Application\bin\Debug\net6.0\ProyectoPrueba.Service.Application.dll
+D:\Alex\CURSOS 2022\VStudio\Practica1\Practica\Practica\Backend\ProyectoPrueba\ProyectoPrueba.Service.Application\bin\Debug\net6.0\ProyectoPrueba.Service.Application.pdb
+D:\Alex\CURSOS 2022\VStudio\Practica1\Practica\Practica\Backend\ProyectoPrueba\ProyectoPrueba.Service.Application\bin\Debug\net6.0\ProyectoPrueba.Service.Core.dll
+D:\Alex\CURSOS 2022\VStudio\Practica1\Practica\Practica\Backend\ProyectoPrueba\ProyectoPrueba.Service.Application\bin\Debug\net6.0\ProyectoPrueba.Service.Core.pdb
+D:\Alex\CURSOS 2022\VStudio\Practica1\Practica\Practica\Backend\ProyectoPrueba\ProyectoPrueba.Service.Application\obj\Debug\net6.0\ProyectoPrueba.Service.Application.csproj.AssemblyReference.cache
+D:\Alex\CURSOS 2022\VStudio\Practica1\Practica\Practica\Backend\ProyectoPrueba\ProyectoPrueba.Service.Application\obj\Debug\net6.0\ProyectoPrueba.Service.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alex\CURSOS 2022\VStudio\Practica1\Practica\Practica\Backend\ProyectoPrueba\ProyectoPrueba.Service.Application\obj\Debug\net6.0\ProyectoPrueba.Service.Application.AssemblyInfoInputs.cache
+D:\Alex\CURSOS 2022\VStudio\Practica1\Practica\Practica\Backend\ProyectoPrueba\ProyectoPrueba.Service.Application\obj\Debug\net6.0\ProyectoPrueba.Service.Application.AssemblyInfo.cs
+D:\Alex\CURSOS 2022\VStudio\Practica1\Practica\Practica\Backend\ProyectoPrueba\ProyectoPrueba.Service.Application\obj\Debug\net6.0\ProyectoPrueba.Service.Application.csproj.CoreCompileInputs.cache
+D:\Alex\CURSOS 2022\VStudio\Practica1\Practica\Practica\Backend\ProyectoPrueba\ProyectoPrueba.Service.Application\obj\Debug\net6.0\ProyectoPrueba.Service.Application.csproj.CopyComplete
+D:\Alex\CURSOS 2022\VStudio\Practica1\Practica\Practica\Backend\ProyectoPrueba\ProyectoPrueba.Service.Application\obj\Debug\net6.0\ProyectoPrueba.Service.Application.dll
+D:\Alex\CURSOS 2022\VStudio\Practica1\Practica\Practica\Backend\ProyectoPrueba\ProyectoPrueba.Service.Application\obj\Debug\net6.0\refint\ProyectoPrueba.Service.Application.dll
+D:\Alex\CURSOS 2022\VStudio\Practica1\Practica\Practica\Backend\ProyectoPrueba\ProyectoPrueba.Service.Application\obj\Debug\net6.0\ProyectoPrueba.Service.Application.pdb
+D:\Alex\CURSOS 2022\VStudio\Practica1\Practica\Practica\Backend\ProyectoPrueba\ProyectoPrueba.Service.Application\obj\Debug\net6.0\ref\ProyectoPrueba.Service.Application.dll

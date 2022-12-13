@@ -1,0 +1,12 @@
+D:\Alex\CURSOS 2022\VStudio\Practica1\Practica\Practica\Backend\ProyectoPrueba\ProyectoPrueba.Service.Core\bin\Debug\net6.0\ProyectoPrueba.Service.Core.deps.json
+D:\Alex\CURSOS 2022\VStudio\Practica1\Practica\Practica\Backend\ProyectoPrueba\ProyectoPrueba.Service.Core\bin\Debug\net6.0\ProyectoPrueba.Service.Core.dll
+D:\Alex\CURSOS 2022\VStudio\Practica1\Practica\Practica\Backend\ProyectoPrueba\ProyectoPrueba.Service.Core\bin\Debug\net6.0\ProyectoPrueba.Service.Core.pdb
+D:\Alex\CURSOS 2022\VStudio\Practica1\Practica\Practica\Backend\ProyectoPrueba\ProyectoPrueba.Service.Core\obj\Debug\net6.0\ProyectoPrueba.Service.Core.csproj.AssemblyReference.cache
+D:\Alex\CURSOS 2022\VStudio\Practica1\Practica\Practica\Backend\ProyectoPrueba\ProyectoPrueba.Service.Core\obj\Debug\net6.0\ProyectoPrueba.Service.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alex\CURSOS 2022\VStudio\Practica1\Practica\Practica\Backend\ProyectoPrueba\ProyectoPrueba.Service.Core\obj\Debug\net6.0\ProyectoPrueba.Service.Core.AssemblyInfoInputs.cache
+D:\Alex\CURSOS 2022\VStudio\Practica1\Practica\Practica\Backend\ProyectoPrueba\ProyectoPrueba.Service.Core\obj\Debug\net6.0\ProyectoPrueba.Service.Core.AssemblyInfo.cs
+D:\Alex\CURSOS 2022\VStudio\Practica1\Practica\Practica\Backend\ProyectoPrueba\ProyectoPrueba.Service.Core\obj\Debug\net6.0\ProyectoPrueba.Service.Core.csproj.CoreCompileInputs.cache
+D:\Alex\CURSOS 2022\VStudio\Practica1\Practica\Practica\Backend\ProyectoPrueba\ProyectoPrueba.Service.Core\obj\Debug\net6.0\ProyectoPrueba.Service.Core.dll
+D:\Alex\CURSOS 2022\VStudio\Practica1\Practica\Practica\Backend\ProyectoPrueba\ProyectoPrueba.Service.Core\obj\Debug\net6.0\refint\ProyectoPrueba.Service.Core.dll
+D:\Alex\CURSOS 2022\VStudio\Practica1\Practica\Practica\Backend\ProyectoPrueba\ProyectoPrueba.Service.Core\obj\Debug\net6.0\ProyectoPrueba.Service.Core.pdb
+D:\Alex\CURSOS 2022\VStudio\Practica1\Practica\Practica\Backend\ProyectoPrueba\ProyectoPrueba.Service.Core\obj\Debug\net6.0\ref\ProyectoPrueba.Service.Core.dll
